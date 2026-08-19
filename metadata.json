@@ -1,0 +1,6 @@
+{
+  "name": "Smart Land Record Assistant",
+  "description": "Citizen-friendly digital land record assistant for India with cadastral maps, AI document OCR validation, legal terminology explanations, mutation status tracking, and document checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
